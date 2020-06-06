@@ -1,0 +1,211 @@
+html{
+    width:100%;
+    overflow-x: hidden;
+}
+body{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    overflow-x: hidden;
+}
+.ab{
+    background-color: rgb(300, 232, 70);
+    text-align: center;
+    padding:10px;
+}
+
+
+.nav1{
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.nav-item a{
+    color: #4E4E50 !important;
+    text-align: center;
+    width: 100px;
+    padding-left: 10px !important;
+    font-family: Lobster Two !important;
+    font-size: 20px;
+    color: cadetblue;
+}
+
+.top{
+    background-color: rgb(300, 232, 70);
+    height: 45px;
+    padding-top: 8px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.one1{
+    background-color:  rgb(300, 232, 70);
+    height: 45px;
+}
+
+.nav-item a:hover{
+    background-color: rgb(156, 33, 33) !important;
+    color: white !important;
+}
+
+.scrollToTop img {
+    position: fixed;
+    bottom:20px;
+    right:70px;
+}
+
+.about{
+    text-align: center;
+    padding-top: ;
+    padding-bottom: ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(300, 232, 70);
+    margin-bottom: 0;
+}
+
+.welcome{   
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: ;
+    background-color: whitesmoke;
+    margin-bottom: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.food{
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: space-around;
+    padding-bottom: 60px;
+    margin-top: 0;
+}
+
+.offer{
+    font-family: Atma;
+    font-size: 25px;
+    text-align: center;
+}
+
+.offerfood{
+    background-color: whitesmoke;
+    padding-bottom: 50px;
+}
+
+.menu{
+    text-align: center;
+    margin-bottom: 0;
+    font-family: Atma;
+    background-color: whitesmoke;
+    padding-top: 30px;
+}
+
+.card-text{
+    font-family: Atma !important;
+    word-spacing: .1cm;
+}
+
+.intro{
+    font-family: Atma;
+    font-size: 20px;
+    background-color: whitesmoke;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 0;
+}
+
+.work{
+    background-color:;
+    margin-top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+}
+
+.box1{
+    padding-left: 45px;
+    width: 410px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    margin-top: 0;
+
+}
+
+
+.steps{
+    text-align: center;
+    background-color:;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.work h3{
+    font-family: Atma;
+}
+.card:hover{
+    transform: scale(.9);
+    box-shadow: 5px 5px 15px rgb(0,0,0,0);
+}
+
+
+.footer1{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(66, 59, 59);
+    margin-top: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    }
+.footer1 ul a{
+    color:blanchedalmond
+    }
+.part ul li{
+    list-style: none !important;
+    font-family: Atma;
+    }
+.part{
+    width: 400px;
+    padding-left:30px;
+    padding-right: 30px;
+        
+    }
+i{
+    padding-left: 20px;
+    }
+
+.sectiona{
+    margin-top: px;
+    margin-bottom: 70px;
+    }
+
+.card-title:hover{
+    color: rgb(156, 33, 33);
+}
+
+.card{
+    transition: .5s ease-in-out;
+    cursor: pointer;
+}
+
+.copyright{
+    color: white;
+    background-color: rgb(156, 33, 33);
+    padding-top: 5px;
+    padding-bottom: px;
+    margin-bottom: 0;
+    align-items: center;
+}
+
+
+.order:hover{
+    color: rgb(156, 33, 33);
+}
+

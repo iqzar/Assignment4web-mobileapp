@@ -1,0 +1,65 @@
+
+
+.heading{
+    text-align: center;
+    font-family: Lobster Two;
+    font-style: bold;
+    padding-top: 15px;
+    margin-top:40px ;
+    background-image: url(https://i.pinimg.com/564x/b6/e9/bf/b6e9bfcfe25cee46cce6a42508b5efd4.jpg);
+
+    padding-bottom: 10px;
+    margin-bottom: ;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 5px 5px 15px rgb(0,0,0,0)
+}
+
+.heading h1{
+    background-color: whitesmoke;
+    opacity: 80%;
+    padding-bottom: 30px;
+    padding-top: 30px ;
+    color: black;
+}
+
+
+.mainmenu{
+    padding-left:40px;
+    padding-right: 40px;
+    margin-right: 50px;
+    margin-left: 50px ;
+    background-color: whitesmoke;
+    padding-bottom: 60px;
+    padding-top: 40px;
+    box-shadow: 5px 5px 15px rgb(0,0,0,0)
+}
+
+
+.sectiona{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.ha1{
+    text-align: center;
+    font-family: Lobster Two ;
+    color:rgb(156, 33, 33) ;
+
+}
+
+li{
+    font-family: Atma;
+    font-size: 17px;
+    padding-left: 20px;
+    font-style: bold;
+    line-height: 1.2cm;
+    word-spacing: .2cm;
+}
+
+.ha1:hover{
+    color: black;
+    transition: .5sec ease-in-out;
+    cursor: pointer;
+}
